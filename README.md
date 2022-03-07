@@ -16,7 +16,7 @@ Amateur electronics constructor: self-made PCBs in professional way using softwa
 
 Amateur 3d FDM printing and modeling using OpensCAD
 
-Love to fly A319 in bad weather conditions using VOR/DME or NDB. Favourite airports LOWI, LOWK, VQPR, LGSM, LSZS.
+Love to fly A319 in bad weather conditions using VOR/DME or NDB. Favourite airports: LOWI, LOWK, VQPR, LGSM, LSZS.
 
 Kalimba player.
 
