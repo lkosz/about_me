@@ -20,9 +20,26 @@ Love to fly A319 in bad weather conditions using VOR/DME or NDB. Favourite airpo
 
 Kalimba player.
 
+
+---
+
+## My trainings, handbooks and tutorials
+
+- Puppet 4 (PL version)
+- Linux basics (PL version)
+- Docker (PL version)
+
+Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
+
 ---
 
 ## Projects finished
+
+- **Drive for EQ3-2**
+  - **repo:** [https://github.com/lkosz/eq3-2_drive](https://github.com/lkosz/eq3-2_drive)
+  - **description:** 2-axis drive for EQ3-2 - schema + Arduino code + 3D models of gears and cases for both RA and DEC axis
+  - **state:** Finished
+  - **tags:** astronomy, 3D printing, electronics
 
 ---
 
