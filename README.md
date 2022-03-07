@@ -20,6 +20,27 @@ Love to fly A319 in bad weather conditions using VOR/DME or NDB. Favourite airpo
 
 Kalimba player.
 
+---
+
+* [My trainings, handbooks and tutorials](#my-trainings--handbooks-and-tutorials)
+* [Projects finished](#projects-finished)
+* [Projects planned](#projects-planned)
+    - [Read meteorogical data for Poland to cluster](#read-meteorogical-data-for-poland-to-cluster)
+    - [Build UHF log-periodic antenna and do observations](#build-uhf-log-periodic-antenna-and-do-observations)
+    - [Build microwave horn antenna for 10GHz (X-band) and 20GHz (Ka-band) LNB](#build-microwave-horn-antenna-for-10ghz--x-band--and-20ghz--ka-band--lnb)
+    - [Build focuser module](#build-focuser-module)
+    - [Build flatfield generator](#build-flatfield-generator)
+    - [Build and test cheap spectroscope](#build-and-test-cheap-spectroscope)
+    - [Get photo of 3C 273](#get-photo-of-3c-273)
+* [Projects in progress](#projects-in-progress)
+    - [Analysis of air pollution in Poland](#analysis-of-air-pollution-in-poland)
+    - [DIY GOTO for EQ5 + DIY guiding](#diy-goto-for-eq5---diy-guiding)
+    - [App for DIY GOTO, getting frames from cameras and platesolve](#app-for-diy-goto--getting-frames-from-cameras-and-platesolve)
+    - [Make photo of Pluto using DIY GOTO](#make-photo-of-pluto-using-diy-goto)
+    - [Determine star magnitude which can be seen during midday](#determine-star-magnitude-which-can-be-seen-during-midday)
+    - [Build filterwheel for 18 1.25" astronomy filters](#build-filterwheel-for-18-125--astronomy-filters)
+    - [Flash cards](#flash-cards)
+    - [Catch 67p comet](#catch-67p-comet)
 
 ---
 
@@ -45,43 +66,43 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
 
 ## Projects planned
 
-- **read meteorogical data for Poland to cluster**
+- #### Read meteorogical data for Poland to cluster
   - **repo:** TBD
   - **description:** try again to read IMGW meteo data to ES cluster and avoid last mistakes during parsing indexing
   - **state:** TBD
   - **tags:** data analysis
 
-- **build UHF log-periodic antenna and do observations**
+- #### Build UHF log-periodic antenna and do observations
   - **repo:** TBD
   - **description:** create log-periodic antenna for 400MHz or 800MHz (or maybe 1421MHz) to receive signal from PSR B0531+21 (Crab pulsar in M1), 3C 273, Sun, Jupiter-Ganimedes system.
   - **state:** TBD
   - **tags:** astronomy, 3D printing, electronics
 
-- **build microwave horn antenna for 10GHz (X-band) and 20GHz (Ka-band) LNB**
+- #### Build microwave horn antenna for 10GHz (X-band) and 20GHz (Ka-band) LNB
   - **repo:** TBD
   - **description:** build microwave horn antenna to receive signal from PSR B0531+21 (Crab pulsar in M1), 3C 273, Sun, Jupiter-Ganimedes system
   - **state:** TBD
   - **tags:** astronomy, 3D printing, electronics
 
-- **Build focuser module**
+- #### Build focuser module
   - **repo:** TBD
   - **description:** there is needed focuser module only after migration from EQ5 to EQ6
   - **state:** TBD
   - **tags:** astronomy, 3D printing, electronics
 
-- **Build flatfield generator**
+- #### Build flatfield generator
   - **repo:** TBD
   - **description:** there is needed cheap and good flatfield generator/screen
   - **state:** TBD
   - **tags:** astronomy, 3D printing, electronics
 
-- **Build and test cheap spectroscope**
+- #### Build and test cheap spectroscope
   - **repo:** TBD
   - **description:** build cheap cardboard spectroscope and test it
   - **state:** TBD
   - **tags:** astronomy, 3D printing, electronics
 
-- **Get photo of 3C 273**
+- #### Get photo of 3C 273
   - **repo:** TBD
   - **description:** make a photo of 3C 273 in multiple bands
   - **state:** TBD
@@ -91,7 +112,7 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
 
 ## Projects in progress
 
-- **analysis of air pollution in Poland**
+- #### Analysis of air pollution in Poland
   - **repo:** TBD
   - **description:** do we have a problem with air pollution? Of course we have, but are there placess free of it? And which are worst places to live? Popularity of this topic is because problem growth or maybe knowledge is growing? Does this discuss cause pollution reduction? Lockdowns in 2020 caused reduction of pollution? Etc.
   - **state:**
@@ -99,43 +120,43 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
     - 2022-03-07 data for years 2000-2020 after cleanup, basic verification and conversion are loaded to cluster (107 milion of Elasticsearch documents). Awaiting for next verification and cleanup
   - **tags:** data analysis
 
-- **DIY GOTO for EQ5 + DIY guiding**
+- #### DIY GOTO for EQ5 + DIY guiding
   - **repo:** TBD
   - **description:** GOTO computer for equatorial mount EQ5. Goal: goto with accuracy better than 10 arcsec, DIY guiding. All cost much less than EQ6-R
   - **state:** finished, ready for publication
   - **tags:** astronomy, 3D printing, electronics
 
-- **App for DIY GOTO, getting frames from cameras and platesolve**
+- #### App for DIY GOTO, getting frames from cameras and platesolve
   - **repo:** TBD
   - **description:** there is app needed for my DIY GOTO in addition with fuctionalities: getting frames from ASI cameras (more than one at a time) and one-click platesolving with such nice graphs like in nova.astrometry.net
   - **state:** finished, ready for publication
   - **tags:** astronomy
 
-- **Make photo of Pluto using DIY GOTO**
+- #### Make photo of Pluto using DIY GOTO
   - **repo:** TBD
   - **description:** simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
   - **state:** finished, ready for publication
   - **tags:** astronomy
 
-- **Determine star magnitude which can be seen during midday**
+- #### Determine star magnitude which can be seen during midday
   - **repo:** TBD
   - **description:** it is said that 4 mag stars and brighter can be seen during the day - try to check it
   - **state:** finished, ready for publication
   - **tags:** astronomy
 
-- **Build filterwheel for 18 1.25" astronomy filters**
+- #### Build filterwheel for 18 1.25" astronomy filters
   - **repo:** TBD
   - **description:** I need filterwheel for my 18 filters, which for reasonable money
   - **state:** finished, ready for publication, corrections needed
   - **tags:** astronomy, 3D printing, electronics
 
-- **Flash cards**
+- #### Flash cards
   - **repo:** TBD
   - **description:** Write app which supports language learning process - electronic flash cards with pronunciation (from google translate)
   - **state:** finished, ready for publication, neeeds to be rewritten
   - **tags:** other
 
-- **Catch 67p comet**
+- #### Catch 67p comet
   - **repo:** TBD
   - **description:** Catch 67p comet and make a movie
   - **state:** finished, ready for publication
