@@ -64,6 +64,12 @@ Kalimba player.
   - **state:** TBD
   - **tags:** astronomy, 3D printing, electronics
 
+- **Get photo of 3C 273**
+  - **repo:** TBD
+  - **description:** make a photo of 3C 273 in multiple bands
+  - **state:** finished, ready for publication
+  - **tags:** astronomy
+
 ---
 
 ## Projects in progress
