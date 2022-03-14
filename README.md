@@ -1,9 +1,3 @@
-# About me and my projects
-
-This page contain description and links to all my significant projects.
-
----
-
 ## Bio
 
 Mathematician interrested in mathematical analysis, linux admin. DevOPS, SysOPS, SecOPS (partially), Linux, Puppet, Bash, Python, CentOS/Rocky Linux, Kubernetes, network debugging, IaaS, IaaC. Iptables and OpenVAS user. Can't live without Elasticsearch, Grafana and Kibana.
