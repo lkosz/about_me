@@ -25,6 +25,7 @@ Kalimba player.
 * [My trainings, handbooks and tutorials](#my-trainings--handbooks-and-tutorials)
 * [Projects finished](#projects-finished)
     - [Flash cards](#flash-cards)
+    - [Drive for EQ3-2](#drive-for-eq3-2)
 * [Projects planned](#projects-planned)
     - [Read meteorogical data for Poland to cluster](#read-meteorogical-data-for-poland-to-cluster)
     - [Build UHF log-periodic antenna and do observations](#build-uhf-log-periodic-antenna-and-do-observations)
@@ -56,7 +57,7 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
 
 ## Projects finished
 
-- ### Drive for EQ3-2
+- #### Drive for EQ3-2
   - **repo:** [https://github.com/lkosz/eq3-2_drive](https://github.com/lkosz/eq3-2_drive)
   - **description:** 2-axis drive for EQ3-2 - schema + Arduino code + 3D models of gears and cases for both RA and DEC axis
   - **state:** Finished
