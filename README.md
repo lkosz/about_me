@@ -62,6 +62,12 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **state:** Finished
   - **tags:** astronomy, 3D printing, electronics
 
+- #### Flash cards
+  - **repo:** [https://github.com/lkosz/elektrofiszki](https://github.com/lkosz/elektrofiszki)
+  - **description:** Write app which supports language learning process - electronic flash cards with pronunciation (from google translate)
+  - **state:** finished
+  - **tags:** other
+
 ---
 
 ## Projects planned
@@ -149,12 +155,6 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **description:** I need filterwheel for my 18 filters, which for reasonable money
   - **state:** finished, ready for publication, corrections needed
   - **tags:** astronomy, 3D printing, electronics
-
-- #### Flash cards
-  - **repo:** TBD
-  - **description:** Write app which supports language learning process - electronic flash cards with pronunciation (from google translate)
-  - **state:** finished, ready for publication, neeeds to be rewritten
-  - **tags:** other
 
 - #### Catch 67p comet
   - **repo:** TBD
