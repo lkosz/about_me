@@ -6,15 +6,15 @@ This page contain description and links to all my significant projects.
 
 ## Bio
 
-Mathematician interrested in mathematical analysis, linux admin. DevOPS, SysOPS, SecOPS (partially), Linux, Puppet, Bash, Python, CentOS/Rocky Linux, Kubernetes, network debugging, IaaS, IaC. Iptables and OpenVAS user. Can't live without Elasticsearch, Grafana and Kibana.
+Mathematician interrested in mathematical analysis, linux admin. DevOPS, SysOPS, SecOPS (partially), Linux, Puppet, Bash, Python, CentOS/Rocky Linux, Kubernetes, network debugging, IaaS, IaaC. Iptables and OpenVAS user. Can't live without Elasticsearch, Grafana and Kibana.
 
-Amateur astronomer: space imaging in bands from UV to SWIR, Planets and weak Solar System objects, planetary and small nebulas, globular clusters. Radioastronomy on wish list.
+Amateur astronomer: space imaging in bands from UV to SWIR, Planets and weak Solar System objects, small and planetary nebulas, globular clusters. Radioastronomy on wish list.
 
 Amateur data analysis: air pollution and weather extremes, climate change.
 
-Amateur electronics constructor: self-made PCBs in professional way using software and manually using blank FR4, copper tape and knive, devices based on microcontrollers and Raspberry
+Amateur electronics constructor: self-made PCBs, devices based on microcontrollers, Raspberry, and plain TTL/CMOS chips
 
-Amateur 3d FDM printing and modeling using OpensCAD
+Amateur 3D FDM printing and modeling using OpensCAD
 
 Love to fly A319 in bad weather conditions using VOR/DME or NDB. Favourite airports: LOWI, LOWK, VQPR, LGSM, LSZS.
 
