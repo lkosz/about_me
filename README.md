@@ -61,13 +61,11 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **repo:** [https://github.com/lkosz/eq3-2_drive](https://github.com/lkosz/eq3-2_drive)
   - **description:** 2-axis drive for EQ3-2 - schema + Arduino code + 3D models of gears and cases for both RA and DEC axis
   - **state:** Finished
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Flash cards
   - **repo:** [https://github.com/lkosz/elektrofiszki](https://github.com/lkosz/elektrofiszki)
   - **description:** Write app which supports language learning process - electronic flash cards with pronunciation (from google translate)
   - **state:** finished
-  - **tags:** other
 
 ---
 
@@ -77,43 +75,36 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **repo:** TBD
   - **description:** try again to read IMGW meteo data to ES cluster and avoid last mistakes during parsing indexing
   - **state:** TBD
-  - **tags:** data analysis
 
 - #### Build UHF log-periodic antenna and do observations
   - **repo:** TBD
   - **description:** create log-periodic antenna for 400MHz or 800MHz (or maybe 1421MHz) to receive signal from PSR B0531+21 (Crab pulsar in M1), 3C 273, Sun, Jupiter-Ganimedes system.
   - **state:** TBD
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Build microwave horn antenna for 10GHz (X-band) and 20GHz (Ka-band) LNB
   - **repo:** TBD
   - **description:** build microwave horn antenna to receive signal from PSR B0531+21 (Crab pulsar in M1), 3C 273, Sun, Jupiter-Ganimedes system
   - **state:** TBD
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Build focuser module
   - **repo:** TBD
   - **description:** there is needed focuser module only after migration from EQ5 to EQ6
   - **state:** TBD
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Build flatfield generator
   - **repo:** TBD
   - **description:** there is needed cheap and good flatfield generator/screen
   - **state:** TBD
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Build and test cheap spectroscope
   - **repo:** TBD
   - **description:** build cheap cardboard spectroscope and test it
   - **state:** TBD
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Get photo of 3C 273
   - **repo:** TBD
   - **description:** make a photo of 3C 273 in multiple bands
   - **state:** TBD
-  - **tags:** astronomy
 
 ---
 
@@ -125,40 +116,33 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **state:**
     - 2022-03-04 download data and start of project
     - 2022-03-07 data for years 2000-2020 after cleanup, basic verification and conversion are loaded to cluster (107 milion of Elasticsearch documents). Awaiting for next verification and cleanup
-  - **tags:** data analysis
 
 - #### DIY GOTO for EQ5 + DIY guiding
   - **repo:** TBD
   - **description:** GOTO computer for equatorial mount EQ5. Goal: goto with accuracy better than 10 arcsec, DIY guiding. All cost much less than EQ6-R
   - **state:** finished, ready for publication
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### App for DIY GOTO, getting frames from cameras and platesolve
   - **repo:** TBD
   - **description:** there is app needed for my DIY GOTO in addition with fuctionalities: getting frames from ASI cameras (more than one at a time) and one-click platesolving with such nice graphs like in nova.astrometry.net
   - **state:** finished, ready for publication
-  - **tags:** astronomy
 
 - #### Make photo of Pluto using DIY GOTO
   - **repo:** TBD
   - **description:** simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
   - **state:** finished, ready for publication
-  - **tags:** astronomy
 
 - #### Determine star magnitude which can be seen during midday
   - **repo:** TBD
   - **description:** it is said that 4 mag stars and brighter can be seen during the day - try to check it
   - **state:** finished, ready for publication
-  - **tags:** astronomy
 
 - #### Build filterwheel for 18 1.25" astronomy filters
   - **repo:** TBD
   - **description:** I need filterwheel for my 18 filters, which for reasonable money
   - **state:** finished, ready for publication, corrections needed
-  - **tags:** astronomy, 3D printing, electronics
 
 - #### Catch 67p comet
   - **repo:** TBD
   - **description:** Catch 67p comet and make a movie
   - **state:** finished, ready for publication
-  - **tags:** astronomy
