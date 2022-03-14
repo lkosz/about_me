@@ -24,6 +24,7 @@ Kalimba player.
 
 * [My trainings, handbooks and tutorials](#my-trainings--handbooks-and-tutorials)
 * [Projects finished](#projects-finished)
+    - [Flash cards](#flash-cards)
 * [Projects planned](#projects-planned)
     - [Read meteorogical data for Poland to cluster](#read-meteorogical-data-for-poland-to-cluster)
     - [Build UHF log-periodic antenna and do observations](#build-uhf-log-periodic-antenna-and-do-observations)
@@ -39,7 +40,6 @@ Kalimba player.
     - [Make photo of Pluto using DIY GOTO](#make-photo-of-pluto-using-diy-goto)
     - [Determine star magnitude which can be seen during midday](#determine-star-magnitude-which-can-be-seen-during-midday)
     - [Build filterwheel for 18 1.25" astronomy filters](#build-filterwheel-for-18-125--astronomy-filters)
-    - [Flash cards](#flash-cards)
     - [Catch 67p comet](#catch-67p-comet)
 
 ---
@@ -56,7 +56,7 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
 
 ## Projects finished
 
-- **Drive for EQ3-2**
+- ###Drive for EQ3-2
   - **repo:** [https://github.com/lkosz/eq3-2_drive](https://github.com/lkosz/eq3-2_drive)
   - **description:** 2-axis drive for EQ3-2 - schema + Arduino code + 3D models of gears and cases for both RA and DEC axis
   - **state:** Finished
