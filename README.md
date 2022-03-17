@@ -61,6 +61,16 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **description:** Write app which supports language learning process - electronic flash cards with pronunciation (from google translate)
   - **state:** finished
 
+- #### Catch 67p comet
+  - **repo:** [https://github.com/lkosz/astronomy/tree/main/67p_churyumov-gerasimenko](https://github.com/lkosz/astronomy/tree/main/67p_churyumov-gerasimenko)
+  - **description:** Catch 67p comet and make a movie
+  - **state:** finished
+
+- #### Determine star magnitude which can be seen during midday
+  - **repo:** [https://github.com/lkosz/astronomy/tree/main/daylight_star_magnitude](https://github.com/lkosz/astronomy/tree/main/daylight_star_magnitude)
+  - **description:** it is said that 4 mag stars and brighter can be seen during the day - try to check it
+  - **state:** finished
+
 ---
 
 ## Projects planned
@@ -126,17 +136,7 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **description:** simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
   - **state:** finished, ready for publication
 
-- #### Determine star magnitude which can be seen during midday
-  - **repo:** TBD
-  - **description:** it is said that 4 mag stars and brighter can be seen during the day - try to check it
-  - **state:** finished, ready for publication
-
 - #### Build filterwheel for 18 1.25" astronomy filters
   - **repo:** TBD
   - **description:** I need filterwheel for my 18 filters, which for reasonable money
   - **state:** finished, ready for publication, corrections needed
-
-- #### Catch 67p comet
-  - **repo:** TBD
-  - **description:** Catch 67p comet and make a movie
-  - **state:** finished, ready for publication
