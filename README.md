@@ -1,6 +1,6 @@
 ## Bio
 
-Mathematician interrested in mathematical analysis, linux admin. DevOPS, SysOPS, SecOPS (partially), Linux, Puppet, Bash, Python, CentOS/Rocky Linux, Kubernetes, network debugging, IaaS, IaaC. Iptables and OpenVAS user. Can't live without Elasticsearch, Grafana and Kibana.
+Mathematician interrested in mathematical analysis, linux admin. DevOPS, SysOPS, Linux, Puppet, Bash, Python, CentOS/Rocky Linux, Kubernetes, network debugging, IaaS, IaaC, security. Iptables and OpenVAS user. Can't live without Elasticsearch, Grafana and Kibana.
 
 Amateur astronomer: space imaging in bands from UV to SWIR, Planets and weak Solar System objects, small and planetary nebulas, globular clusters. Radioastronomy on wish list.
 
