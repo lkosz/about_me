@@ -20,6 +20,8 @@ Kalimba player.
 * [Projects finished](#projects-finished)
     - [Flash cards](#flash-cards)
     - [Drive for EQ3-2](#drive-for-eq3-2)
+    - [Catch 67p comet](#catch-67p-comet)
+    - [Determine star magnitude which can be seen during midday](#determine-star-magnitude-which-can-be-seen-during-midday)
 * [Projects planned](#projects-planned)
     - [Read meteorogical data for Poland to cluster](#read-meteorogical-data-for-poland-to-cluster)
     - [Build UHF log-periodic antenna and do observations](#build-uhf-log-periodic-antenna-and-do-observations)
@@ -33,9 +35,7 @@ Kalimba player.
     - [DIY GOTO for EQ5 + DIY guiding](#diy-goto-for-eq5---diy-guiding)
     - [App for DIY GOTO, getting frames from cameras and platesolve](#app-for-diy-goto--getting-frames-from-cameras-and-platesolve)
     - [Make photo of Pluto using DIY GOTO](#make-photo-of-pluto-using-diy-goto)
-    - [Determine star magnitude which can be seen during midday](#determine-star-magnitude-which-can-be-seen-during-midday)
     - [Build filterwheel for 18 1.25" astronomy filters](#build-filterwheel-for-18-125--astronomy-filters)
-    - [Catch 67p comet](#catch-67p-comet)
 
 ---
 
