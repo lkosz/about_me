@@ -22,6 +22,10 @@ Kalimba player.
     - [Drive for EQ3-2](#drive-for-eq3-2)
     - [Catch 67p comet](#catch-67p-comet)
     - [Determine star magnitude which can be seen during midday](#determine-star-magnitude-which-can-be-seen-during-midday)
+    - [DIY GOTO for EQ5 + DIY guiding](#diy-goto-for-eq5---diy-guiding)
+    - [App for DIY GOTO, getting frames from cameras and platesolve](#app-for-diy-goto--getting-frames-from-cameras-and-platesolve)
+    - [Make photo of Pluto using DIY GOTO](#make-photo-of-pluto-using-diy-goto)
+    - [Build filterwheel for 18 1.25" astronomy filters](#build-filterwheel-for-18-125--astronomy-filters)
 * [Projects planned](#projects-planned)
     - [Read meteorogical data for Poland to cluster](#read-meteorogical-data-for-poland-to-cluster)
     - [Build UHF log-periodic antenna and do observations](#build-uhf-log-periodic-antenna-and-do-observations)
@@ -32,10 +36,6 @@ Kalimba player.
     - [Get photo of 3C 273](#get-photo-of-3c-273)
 * [Projects in progress](#projects-in-progress)
     - [Analysis of air pollution in Poland](#analysis-of-air-pollution-in-poland)
-    - [DIY GOTO for EQ5 + DIY guiding](#diy-goto-for-eq5---diy-guiding)
-    - [App for DIY GOTO, getting frames from cameras and platesolve](#app-for-diy-goto--getting-frames-from-cameras-and-platesolve)
-    - [Make photo of Pluto using DIY GOTO](#make-photo-of-pluto-using-diy-goto)
-    - [Build filterwheel for 18 1.25" astronomy filters](#build-filterwheel-for-18-125--astronomy-filters)
 
 ---
 
@@ -70,6 +70,26 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
   - **repo:** [https://github.com/lkosz/astronomy/tree/main/daylight_star_magnitude](https://github.com/lkosz/astronomy/tree/main/daylight_star_magnitude)
   - **description:** it is said that 4 mag stars and brighter can be seen during the day - try to check it
   - **state:** finished
+
+- #### DIY GOTO for EQ5 + DIY guiding
+  - **repo:** [https://github.com/lkosz/eq5_goto](https://github.com/lkosz/eq5_goto)
+  - **description:** GOTO computer for equatorial mount EQ5. Goal: goto with accuracy better than 10 arcsec, DIY guiding. All cost much less than EQ6-R
+  - **state:** finished, ready for publication
+
+- #### App for DIY GOTO, getting frames from cameras and platesolve
+  - **repo:** [https://github.com/lkosz/astro_camera_gui](https://github.com/lkosz/astro_camera_gui)
+  - **description:** there is app needed for my DIY GOTO in addition with fuctionalities: getting frames from ASI cameras (more than one at a time) and one-click platesolving with such nice graphs like in nova.astrometry.net
+  - **state:** finished, ready for publication
+
+- #### Make photo of Pluto using DIY GOTO
+  - **repo:** [https://github.com/lkosz/astronomy/tree/main/pluto_2021](https://github.com/lkosz/astronomy/tree/main/pluto_2021)
+  - **description:** simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
+  - **state:** finished, ready for publication
+
+- #### Build filterwheel for 18 1.25" astronomy filters
+  - **repo:** [https://github.com/lkosz/astro_filterwheel](https://github.com/lkosz/astro_filterwheel)
+  - **description:** I need filterwheel for my 18 filters, which for reasonable money
+  - **state:** finished, ready for publication, corrections needed
 
 ---
 
@@ -115,28 +135,8 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
 ## Projects in progress
 
 - #### Analysis of air pollution in Poland
-  - **repo:** TBD
+  - **repo:** [https://github.com/lkosz/air_pollution](https://github.com/lkosz/air_pollution)
   - **description:** do we have a problem with air pollution? Of course we have, but are there placess free of it? And which are worst places to live? Popularity of this topic is because problem growth or maybe knowledge is growing? Does this discuss cause pollution reduction? Lockdowns in 2020 caused reduction of pollution? Etc.
   - **state:**
     - 2022-03-04 download data and start of project
     - 2022-03-07 data for years 2000-2020 after cleanup, basic verification and conversion are loaded to cluster (107 milion of Elasticsearch documents). Awaiting for next verification and cleanup
-
-- #### DIY GOTO for EQ5 + DIY guiding
-  - **repo:** TBD
-  - **description:** GOTO computer for equatorial mount EQ5. Goal: goto with accuracy better than 10 arcsec, DIY guiding. All cost much less than EQ6-R
-  - **state:** finished, ready for publication
-
-- #### App for DIY GOTO, getting frames from cameras and platesolve
-  - **repo:** TBD
-  - **description:** there is app needed for my DIY GOTO in addition with fuctionalities: getting frames from ASI cameras (more than one at a time) and one-click platesolving with such nice graphs like in nova.astrometry.net
-  - **state:** finished, ready for publication
-
-- #### Make photo of Pluto using DIY GOTO
-  - **repo:** TBD
-  - **description:** simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
-  - **state:** finished, ready for publication
-
-- #### Build filterwheel for 18 1.25" astronomy filters
-  - **repo:** TBD
-  - **description:** I need filterwheel for my 18 filters, which for reasonable money
-  - **state:** finished, ready for publication, corrections needed
