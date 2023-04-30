@@ -74,22 +74,22 @@ Here: [https://github.com/lkosz/szkolenia](https://github.com/lkosz/szkolenia)
 - #### DIY GOTO for EQ5 + DIY guiding
   - **repo:** [https://github.com/lkosz/eq5_goto](https://github.com/lkosz/eq5_goto)
   - **description:** GOTO computer for equatorial mount EQ5. Goal: goto with accuracy better than 10 arcsec, DIY guiding. All cost much less than EQ6-R
-  - **state:** finished, ready for publication
+  - **state:** finished
 
 - #### App for DIY GOTO, getting frames from cameras and platesolve
   - **repo:** [https://github.com/lkosz/astro_camera_gui](https://github.com/lkosz/astro_camera_gui)
   - **description:** there is app needed for my DIY GOTO in addition with fuctionalities: getting frames from ASI cameras (more than one at a time) and one-click platesolving with such nice graphs like in nova.astrometry.net
-  - **state:** finished, ready for publication
+  - **state:** finished
 
 - #### Make photo of Pluto using DIY GOTO
   - **repo:** [https://github.com/lkosz/astronomy/tree/main/pluto_2021](https://github.com/lkosz/astronomy/tree/main/pluto_2021)
   - **description:** simply - make photo of Pluto, which is not easy to find, but much easier with DIY GOTO and DIY app which get frame from camera and make quick platesolve
-  - **state:** finished, ready for publication
+  - **state:** finished
 
 - #### Build filterwheel for 18 1.25" astronomy filters
   - **repo:** [https://github.com/lkosz/astro_filterwheel](https://github.com/lkosz/astro_filterwheel)
   - **description:** I need filterwheel for my 18 filters, which for reasonable money
-  - **state:** finished, ready for publication, corrections needed
+  - **state:** finished
 
 ---
 
